@@ -1,5 +1,5 @@
 +++
-title = "A bit About Myself(Date is messed up cause i want it to stay at the top)"
+title = "A Bit About Myself(Date is messed up cause i want it to stay at the top)"
 date = "2024-02-14"
 summary = "Date is messed up cause i want it to stay at the top"
 +++
