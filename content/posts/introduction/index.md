@@ -1,6 +1,7 @@
 +++
 title = "A bit About Myself"
-date = "2023-09-20"
+date = "2026-09-20"
+summary = "Date is messed up cause i want it to stay at the top"
 +++
 
 👋 Hi there! I'm Barshan, an aspiring cybersecurity enthusiast and a proactive learner, passionate about leveraging technology for positive change. Currently pursuing a 4-year B.Tech degree in Electronics and Communication Engineering at Amrita Vishwa Vidyapeetham, Amritapuri.
