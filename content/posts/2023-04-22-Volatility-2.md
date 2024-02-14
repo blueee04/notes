@@ -1,7 +1,7 @@
 +++
 title = "The Volatility Tool(Version 2)"
 date = "2023-04-22"
-summary = "A Short guide to the usage of this tool"
+summary = "A Short guide to the usage of Volatility-2"
 +++
 
 # Memlabs
