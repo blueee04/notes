@@ -6,12 +6,19 @@
     <description>Recent content in Posts on My Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blueee04.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Volatility Tool(Version 2)</title>
+      <link>https://blueee04.github.io/notes/posts/volatitlity-2/2023-04-22-volatility-2/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://blueee04.github.io/notes/posts/volatitlity-2/2023-04-22-volatility-2/</guid>
+      <description>A Short guide to the usage of this tool</description>
+    </item>
     <item>
       <title>A bit About Myself</title>
       <link>https://blueee04.github.io/notes/posts/introduction/</link>
-      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://blueee04.github.io/notes/posts/introduction/</guid>
       <description>&lt;p&gt;👋 Hi there! I&amp;rsquo;m Barshan, an aspiring cybersecurity enthusiast and a proactive learner, passionate about leveraging technology for positive change. Currently pursuing a 4-year B.Tech degree in Electronics and Communication Engineering at Amrita Vishwa Vidyapeetham, Amritapuri.&lt;/p&gt;</description>
     </item>
