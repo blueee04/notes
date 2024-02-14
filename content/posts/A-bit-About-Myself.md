@@ -1,6 +1,6 @@
 +++
 title = "A bit About Myself"
-date = "2022-09-20"
+date = "2024-02-14"
 summary = "Date is messed up cause i want it to stay at the top"
 +++
 
