@@ -4,7 +4,7 @@ date = "2024-02-14"
 summary = "Date is messed up cause i want it to stay at the top"
 +++
 
-👋 Hi there! I'm Barshan, an aspiring cybersecurity enthusiast and a proactive learner, passionate about leveraging technology for positive change. Currently pursuing a 4-year B.Tech degree in Electronics and Communication Engineering at Amrita Vishwa Vidyapeetham, Amritapuri.
+👋 Hi there! I'm Barshan, an aspiring cybersecurity enthusiast and a proactive learner, passionate about leveraging technology for positive change. Currently pursuing a 4-year B.Tech degree in Electronics and Computer Engineering at Amrita Vishwa Vidyapeetham, Amritapuri.
 <!--more-->
 🔒 In the vast expanse of cyberspace, I find myself constantly exploring and honing my skills to contribute meaningfully to progressive organizations. My journey includes active participation in Capture The Flag (CTF) competitions, where I thrive in challenging cybersecurity environments. My expertise spans across File Forensics and Analysis, Network Packet Analyzing, Memory Forensics, and Penetration Testing.
 
