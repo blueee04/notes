@@ -1,7 +1,7 @@
 +++
-title = "A Bit About Myself(Date is messed up cause i want it to stay at the top)"
-date = "2024-02-14"
-summary = "Date is messed up cause i want it to stay at the top"
+title = "A Bit About Myself"
+date = "2004-09-22"
+summary = ""
 +++
 
 👋 Hi there! I'm Barshan, an aspiring cybersecurity enthusiast and a proactive learner, passionate about leveraging technology for positive change. Currently pursuing a 4-year B.Tech degree in Electronics and Computer Engineering at Amrita Vishwa Vidyapeetham, Amritapuri.

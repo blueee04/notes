@@ -1,0 +1,45 @@
+baseURL = "https://blueee04.github.io/notes/"
+languageCode = "en-us"
+title = "My Notes"
+theme = "archie"
+
+copyright = "© Barshan"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="toggle"
+	useCDN=false
+	subtitle = "A Place For Me To Dump My Notes And Thoughts Or Anything I Find Interesting"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/blueee04/"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/b1u33_04/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/barshan-mondal-3457b1264/"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+
