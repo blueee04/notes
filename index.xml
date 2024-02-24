@@ -6,15 +6,9 @@
     <description>Recent content on My Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <copyright>© Barshan</copyright>
+    <lastBuildDate>Thu, 23 Nov 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blueee04.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A Bit About Myself(Date is messed up cause i want it to stay at the top)</title>
-      <link>https://blueee04.github.io/notes/posts/a-bit-about-myself/</link>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://blueee04.github.io/notes/posts/a-bit-about-myself/</guid>
-      <description>&lt;p&gt;👋 Hi there! I&amp;rsquo;m Barshan, an aspiring cybersecurity enthusiast and a proactive learner, passionate about leveraging technology for positive change. Currently pursuing a 4-year B.Tech degree in Electronics and Computer Engineering at Amrita Vishwa Vidyapeetham, Amritapuri.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>A Frequency Domain Steganography using Z Transform (FDSZT)</title>
       <link>https://blueee04.github.io/notes/posts/2023-11-23-steganography-using-z-transform/</link>
@@ -35,6 +29,13 @@
       <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://blueee04.github.io/notes/posts/2023-04-22-volatility-2/</guid>
       <description>A Short guide to the usage of Volatility-2</description>
+    </item>
+    <item>
+      <title>A Bit About Myself</title>
+      <link>https://blueee04.github.io/notes/about/</link>
+      <pubDate>Wed, 22 Sep 2004 00:00:00 +0000</pubDate>
+      <guid>https://blueee04.github.io/notes/about/</guid>
+      <description>&lt;p&gt;👋 Hi there! I&amp;rsquo;m Barshan, an aspiring cybersecurity enthusiast and a proactive learner, passionate about leveraging technology for positive change. Currently pursuing a 4-year B.Tech degree in Electronics and Computer Engineering at Amrita Vishwa Vidyapeetham, Amritapuri.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

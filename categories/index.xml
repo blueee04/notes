@@ -6,6 +6,7 @@
     <description>Recent content in Categories on My Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>© Barshan</copyright>
     <atom:link href="https://blueee04.github.io/notes/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
