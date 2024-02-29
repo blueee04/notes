@@ -22,6 +22,6 @@ We first validate the proposed method on categorical generation. In categorical 
 
 ### Conditioned on Image
 
-Image-to-image translation aims to learn the mapping between two visual domains. Conditioned on images from the source domain, models attempt to synthesize corresponding images in the target domain. Despite the multimodal nature of the image-to-image translation task, early work abandons noise vectors and performs one-toone mapping since the latent codes are easily ignored during training. To achieve multimodality, several recent attempts introduce additional encoder networks and objective functions to impose a bijection constraint between the latent code space and the image
+Image-to-image translation aims to learn the mapping between two visual domains. Conditioned on images from the source domain, models attempt to synthesize corresponding images in the target domain. Despite the multimodal nature of the image-to-image translation task, early work abandons noise vectors and performs one-toone mapping since the latent codes are easily ignored during training. To achieve multimodality, several recent attempts introduce additional encoder networks and objective functions to impose a bijection constraint between the latent code space and the image.
 
 ![](https://cdn.discordapp.com/attachments/1099629557126012940/1212824850130010122/image.png?ex=65f33e29&is=65e0c929&hm=523c9b44893fa34709354b049c7479369bd6d88e2f11f308d5007ddc3049bb3c&)
