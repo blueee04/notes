@@ -16,7 +16,7 @@ summary = "Evaluating generative adversarial networks (GANs) is inherently chall
 
 We first validate the proposed method on categorical generation. In categorical generation, networks take class labels as conditional contexts to synthesize images of different categories. We apply the regularization term to the baseline framework DCGAN. We conduct experiments on the CIFAR-10 dataset which includes images of ten categories. Since images in the CIFAR-10 dataset are of size 32 × 32 and upsampling degrades the image quality, we do not compute LPIPS in this task. Table 1 present the results of NDB, JSD, and FID. MSGAN mitigates the mode collapse issue in most classes while maintaining image quality.
 
-![](https://cdn.discordapp.com/attachments/1099629557126012940/1212823065956847747/image.png?ex=65f33c80&is=65e0c780&hm=8f5f261c1d7ff3d27dcb6f345fa5e07c117cb23f59c7992fd883d8df087308df&)
+![](https://camo.githubusercontent.com/af37fdcc5a5c31d171a8bc91f9a83bd67f5abdc953a4f57f7017acf9a58f783e/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313039393632393535373132363031323934302f313231323832333036353935363834373734372f696d6167652e706e673f65783d36356633336338302669733d363565306337383026686d3d3866356632363163316437666633643237646362366633343566613565303763313137636232336635396337393932666438383364386466303837333038646626)
 
 ![](https://cdn.discordapp.com/attachments/1099629557126012940/1212824651680587866/image.png?ex=65f33dfa&is=65e0c8fa&hm=36f96eef7a661f8faee7a571fcf1feb55f56cc795508b28158fbbac9ce6d6d57&)
 
