@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blueee04.github.io/notes/posts/2023-11-23-steganography-using-z-transform/</loc>
-    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+    <loc>https://blueee04.github.io/notes/posts/2024-02-11-evaluation-metrics-of-generative-adversarial-networks/</loc>
+    <lastmod>2024-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blueee04.github.io/notes/</loc>
-    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blueee04.github.io/notes/posts/</loc>
+    <lastmod>2024-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blueee04.github.io/notes/posts/2023-11-23-steganography-using-z-transform/</loc>
     <lastmod>2023-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blueee04.github.io/notes/posts/2023-10-02-fundamentals-of-ml/</loc>
@@ -19,8 +22,6 @@
   </url><url>
     <loc>https://blueee04.github.io/notes/about/</loc>
     <lastmod>2004-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blueee04.github.io/notes/posts/2024-02-11-evaluation-metrics-of-generative-adversarial-networks/</loc>
   </url><url>
     <loc>https://blueee04.github.io/notes/categories/</loc>
   </url><url>

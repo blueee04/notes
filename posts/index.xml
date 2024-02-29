@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Barshan</copyright>
-    <lastBuildDate>Thu, 23 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blueee04.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evaluation metrics of Generative Adversarial Networks</title>
+      <link>https://blueee04.github.io/notes/posts/2024-02-11-evaluation-metrics-of-generative-adversarial-networks/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://blueee04.github.io/notes/posts/2024-02-11-evaluation-metrics-of-generative-adversarial-networks/</guid>
+      <description>Evaluating generative adversarial networks (GANs) is inherently challenging. In this paper, we revisit several representative sample-based evaluation metrics for GANs, and address the problem of how to evaluate the evaluation metrics.</description>
+    </item>
     <item>
       <title>A Frequency Domain Steganography using Z Transform (FDSZT)</title>
       <link>https://blueee04.github.io/notes/posts/2023-11-23-steganography-using-z-transform/</link>
@@ -29,13 +36,6 @@
       <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://blueee04.github.io/notes/posts/2023-04-22-volatility-2/</guid>
       <description>A Short guide to the usage of Volatility-2</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://blueee04.github.io/notes/posts/2024-02-11-evaluation-metrics-of-generative-adversarial-networks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blueee04.github.io/notes/posts/2024-02-11-evaluation-metrics-of-generative-adversarial-networks/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

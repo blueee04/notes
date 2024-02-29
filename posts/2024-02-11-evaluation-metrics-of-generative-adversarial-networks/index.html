@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html><head lang="en">
 	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title> - My Notes</title><meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Evaluation metrics of Generative Adversarial Networks - My Notes</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Evaluating generative adversarial networks (GANs) is inherently challenging. In this paper, we revisit several representative sample-based evaluation metrics for GANs, and address the problem of how to evaluate the evaluation metrics." />
 	<meta property="og:image" content=""/>
-	<meta property="og:title" content="" />
-<meta property="og:description" content="" />
+	<meta property="og:title" content="Evaluation metrics of Generative Adversarial Networks" />
+<meta property="og:description" content="Evaluating generative adversarial networks (GANs) is inherently challenging. In this paper, we revisit several representative sample-based evaluation metrics for GANs, and address the problem of how to evaluate the evaluation metrics." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://blueee04.github.io/notes/posts/2024-02-11-evaluation-metrics-of-generative-adversarial-networks/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-02-11T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-02-11T00:00:00+00:00" />
 
-
-
-<meta name="twitter:card" content="summary"/><meta name="twitter:title" content=""/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Evaluation metrics of Generative Adversarial Networks"/>
+<meta name="twitter:description" content="Evaluating generative adversarial networks (GANs) is inherently challenging. In this paper, we revisit several representative sample-based evaluation metrics for GANs, and address the problem of how to evaluate the evaluation metrics."/>
 <script src="https://blueee04.github.io/notes/js/feather.min.js"></script>
 	
 	
@@ -54,13 +54,19 @@
 <main>
 	<article>
 		<div class="title">
-			<h1 class="title"></h1>
-			<div class="meta">Posted on Jan 1, 0001</div>
+			<h1 class="title">Evaluation metrics of Generative Adversarial Networks</h1>
+			<div class="meta">Posted on Feb 11, 2024</div>
 		</div>
 		
 
 		<section class="body">
-			
+			<p><strong>FID</strong> - To evaluate the quality of the generated images, we use FID to measure the distance between the generated distribution and the real one through features extracted by Inception Network. Lower FID values indicate better quality of the generated images.</p>
+<p><strong>LPIPS</strong> - To evaluate diversity, we employ LPIPS [30] following [10, 14, 32]. LIPIS measures the average feature distances between generated samples. Higher LPIPS score indicates better diversity among the generated images</p>
+<p><strong>NDB and JSD</strong> - To measure the similarity between the distribution between real images and generated one, we adopt two bin-based metrics, NDB and JSD, proposed in. These metrics evaluate the extent of mode missing of generative models. Following, the training samples are first clustered using K-means into different bins which can be viewed as modes of the real data distribution. Then each generated sample is assigned to the bin of its nearest neighbor. We calculate the bin-proportions of the training samples and the synthesized samples to evaluate the difference between the generated distribution and the real data distribution. NDB score and JSD of the bin-proportion are then computed to measure the mode collapse. Lower NDB score and JSD mean the generated data distribution approaches the real data distribution better by fitting more modes.</p>
+<p><img src="https://cdn.discordapp.com/attachments/1099629557126012940/1212823014580686989/image.png?ex=65f33c73&amp;is=65e0c773&amp;hm=68be318c5f171ef28f21395e0a1c79a055fa17e1f04b1a561af75e939f573627&amp;" alt=""></p>
+<h3 id="conditioned-on-class-label">Conditioned on Class Label</h3>
+<p>We first validate the proposed method on categorical generation. In categorical generation, networks take class labels as conditional contexts to synthesize images of different categories. We apply the regularization term to the baseline framework DCGAN. We conduct experiments on the CIFAR-10 dataset which includes images of ten categories. Since images in the CIFAR-10 dataset are of size 32 × 32 and upsampling degrades the image quality, we do not compute LPIPS in this task. Table 1 present the results of NDB, JSD, and FID. MSGAN mitigates the mode collapse issue in most classes while maintaining image quality.</p>
+
 		</section>
 
 		<div class="post-tags">
