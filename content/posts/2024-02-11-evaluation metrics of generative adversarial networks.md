@@ -16,3 +16,12 @@ summary = "Evaluating generative adversarial networks (GANs) is inherently chall
 
 We first validate the proposed method on categorical generation. In categorical generation, networks take class labels as conditional contexts to synthesize images of different categories. We apply the regularization term to the baseline framework DCGAN. We conduct experiments on the CIFAR-10 dataset which includes images of ten categories. Since images in the CIFAR-10 dataset are of size 32 × 32 and upsampling degrades the image quality, we do not compute LPIPS in this task. Table 1 present the results of NDB, JSD, and FID. MSGAN mitigates the mode collapse issue in most classes while maintaining image quality.
 
+![](https://cdn.discordapp.com/attachments/1099629557126012940/1212823065956847747/image.png?ex=65f33c80&is=65e0c780&hm=8f5f261c1d7ff3d27dcb6f345fa5e07c117cb23f59c7992fd883d8df087308df&)
+
+![](https://cdn.discordapp.com/attachments/1099629557126012940/1212824651680587866/image.png?ex=65f33dfa&is=65e0c8fa&hm=36f96eef7a661f8faee7a571fcf1feb55f56cc795508b28158fbbac9ce6d6d57&)
+
+### Conditioned on Image
+
+Image-to-image translation aims to learn the mapping between two visual domains. Conditioned on images from the source domain, models attempt to synthesize corresponding images in the target domain. Despite the multimodal nature of the image-to-image translation task, early work abandons noise vectors and performs one-toone mapping since the latent codes are easily ignored during training. To achieve multimodality, several recent attempts introduce additional encoder networks and objective functions to impose a bijection constraint between the latent code space and the image
+
+![](https://cdn.discordapp.com/attachments/1099629557126012940/1212824850130010122/image.png?ex=65f33e29&is=65e0c929&hm=523c9b44893fa34709354b049c7479369bd6d88e2f11f308d5007ddc3049bb3c&)
