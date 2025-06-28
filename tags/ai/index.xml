@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on My Notes</title>
+    <link>https://blueee04.github.io/notes/tags/ai/</link>
+    <description>Recent content in AI on My Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Barshan</copyright>
+    <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blueee04.github.io/notes/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generative AI in Healthcare: How the Future&#39;s Getting Real, Really Fast</title>
+      <link>https://blueee04.github.io/notes/posts/2024-05-12-generative-ai-in-healthcare/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://blueee04.github.io/notes/posts/2024-05-12-generative-ai-in-healthcare/</guid>
+      <description>A friendly look at how Generative AI is reshaping diagnosis, medical imaging, and treatment innovation—without turning you into a data scientist.</description>
+    </item>
+  </channel>
+</rss>
